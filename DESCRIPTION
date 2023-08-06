@@ -1,0 +1,11 @@
+Package: myrpackage
+Type: Package
+Title: My R Package
+Version: 0.1
+Authors@R: person("Bishr", "Tabbaa", ,"bishrt@amazon.com",role=c("aut","cre"))
+Description: This is an example R package with functions for Fibonacci and HelloWorld
+License: `use_mit_license()`
+Encoding: UTF-8
+Depends: 
+  R (>= 3.1)
+RoxygenNote: 7.2.3.9000
